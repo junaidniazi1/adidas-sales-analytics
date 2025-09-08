@@ -4,6 +4,8 @@ A beautiful, interactive web dashboard for analyzing Adidas sales data built wit
 
 ![Dashboard Preview](https://img.shields.io/badge/Status-Active-brightgreen) ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red)
 
+![Demo](Recording2025-09-08150928-ezgif.com-video-to-gif-converter.gif)
+
 ## ✨ Features
 
 - **📊 Interactive Analytics**: Real-time KPIs including revenue, units sold, transactions, and profit margins
